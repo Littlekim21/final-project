@@ -1,0 +1,29 @@
+div.text{
+    position: absolute;
+     bottom: 16pxpx;
+    right: 16px;
+    height:0px ;
+    
+}
+body{
+    color: brown;
+}
+td{
+    color: black;
+}
+p{
+    color: black;
+}
+body{
+    background-color: white;
+}
+tr{
+    background-color: white;
+}
+.navbar a:hover{
+    background-color: black;
+    color: blue;
+}
+.molloylogo{
+    background-color: black;
+}
